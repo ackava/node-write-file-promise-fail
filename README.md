@@ -1,0 +1,1 @@
+# node-write-file-promise-fail
